@@ -10,7 +10,7 @@
 6. **Basic Web Scraper** – Scrape data from a website using `BeautifulSoup`.
 7. **Rock, Paper, Scissors Game** – Classic game with a simple user interface.
 8. **Countdown Timer** – CLI timer with sound notification.
-9. **Password Generator** – Generate random secure passwords.
+9. **Password Generator** – Generate random secure passwords. Add difficulty (Optional)
 10. **Weather App** – Fetch and display weather data from an API.
 
 ### Intermediate Projects
@@ -121,6 +121,4 @@
 99. **Portfolio CMS** – A content management system to manage your portfolio.
 100. **Bookstore** – Create an online bookstore where users can browse, buy, and review books.
 
-These projects should give you a well-rounded portfolio showcasing various skills. You can adjust complexity based on your learning goals and experience level. Feel free to combine or extend projects for more depth!#   1 0 0 - d a y s - o f - p y t h o n  
- #   1 0 0 - d a y s - o f - p y t h o n  
- 
+These projects should give you a well-rounded portfolio showcasing various skills. You can adjust complexity based on your learning goals and experience level. Feel free to combine or extend projects for more depth!
